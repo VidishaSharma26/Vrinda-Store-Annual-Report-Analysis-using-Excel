@@ -20,4 +20,54 @@ End Goal- We will make an automated dashboard which will represent the data to s
 
  
 
-Sample Questions for Data- 
+Sample Questions for Data to Analyze- 
+1.Compare Sales and order using single chart. 
+
+2.Which Month highest Sales and order? 
+
+3.Who purchased more- Men or Women? 
+
+4.What are the different order status in 2022? 
+
+5.List top 5 States contributing to Sales? 
+
+6.Relation between Age and gender based on number of orders? 
+
+7.Which channel is contributing to maximum sales? 
+
+8.Highest selling Category? 
+
+
+
+Step 1. Data Cleaning- 
+
+ In Data Cleaning we will visit every column and cross check if data is in  correct  format or not. There should be no duplicates, or Null values. 
+"Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. When combining multiple data sources, there are many opportunities for data to be duplicated or mislabeled" 
+
+STEP 2. Data Processing- 
+
+ "Data processing occurs when data is collected and translated into usable information which will help in data analysis."
+ 
+  Ques 6-  Relation between Age and gender based on number of orders? 
+
+Ans- We will make new column Age group based on 3 criteria- {Senior, Adult and Teenager} using formula 
+
+=IF(E2>=50,"Senior",IF(E2>=20,"Adult","Teenager")) 
+
+ Ques 2-Which Month highest Sales and order? 
+
+ Ans- We will make new column Month in which we will extract month from the existing Date column using formula 
+
+=TEXT(G2,"mmm")   output->dec 
+
+Step 03- DATA ANALYSIS 
+
+ "Data analysis is defined as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis." 
+ 
+ 
+
+ 
+
+ 
+
+ 
