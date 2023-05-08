@@ -10,33 +10,7 @@ There is a Vrinda store, which did online sales through different channels like 
 Their ask is to analyze their data and to make annual report with the help of which she can understand her existing customers and could boost her business by next year. 
 
  
-
 End Goal- We will make an automated dashboard which will represent the data to solve this business problem, for that we will first do Data cleaning, Data Processing, Data Analysis, Data Visualization and then make reports and will share Insights with the client. 
-
- 
-
-     
-
-
- 
-
-Sample Questions for Data to Analyze- 
-1.Compare Sales and order using single chart. 
-
-2.Which Month highest Sales and order? 
-
-3.Who purchased more- Men or Women? 
-
-4.What are the different order status in 2022? 
-
-5.List top 5 States contributing to Sales? 
-
-6.Relation between Age and gender based on number of orders? 
-
-7.Which channel is contributing to maximum sales? 
-
-8.Highest selling Category? 
-
 
 
 Step 1. Data Cleaning- 
