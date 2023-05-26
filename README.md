@@ -12,6 +12,10 @@ Their ask is to analyze their data and to make annual report with the help of wh
 To  make an automated dashboard which will represent the data to solve this business problem.
 For that we will first do Data cleaning, Data Processing, Data Analysis, Data Visualization and then make reports and will share Insights with the client. 
 
+### Output-
+<img width="915" alt="Screenshot 2023-05-27 000847" src="https://github.com/VidishaSharma26/Vrinda-Store-Annual-Report-Analysis-using-Excel/assets/132566486/5f6221d2-06b5-41a2-8216-f5c084b220d0">
+
+
 
 
 
