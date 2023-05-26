@@ -13,7 +13,7 @@ To  make an automated dashboard which will represent the data to solve this busi
 For that we will first do Data cleaning, Data Processing, Data Analysis, Data Visualization and then make reports and will share Insights with the client. 
 
 
-
+"C:\Users\934316\OneDrive - Cognizant\Desktop\Screenshot 2023-05-27 000847.png"
 
  
 
